@@ -2,7 +2,7 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong> Siva NK</strong>
+  Hi, I'm <strong> Siva Durga Y</strong>
 </h1>
 
 <h3> Developer | HTML,CSS,JS • Python • C++, C </h3>
@@ -111,10 +111,9 @@
 
 ---
 
-## ❤️ Support Me
+## ❤️ Thanks for Visiting
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p>
